@@ -27,7 +27,7 @@ if (heroi.xp < 1000) {
 //saida
 console.log(mensagem + "O Heroi " + heroi.nome + " Atingiu o nivel: " + xp);
 console.log (mensagem + "Obrigado Heroi por tonar este reino mais pacifico, as tavernas o aguardam");
-console.log(mensagem + "Todos monstros foram mortos por sua espada, Erguiremos um momunto mento na praça central em sua homenagem ");
+console.log(mensagem + "Todos monstros foram mortos por sua espada, Erguiremos um monumento na praça central em sua homenagem ");
 
 
 
